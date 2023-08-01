@@ -33,3 +33,5 @@ My na me is Weronika Turchan and i’m a master of business informatics, special
 ### DOCUMENTS
 * https://docs.google.com/spreadsheets/d/1xv57MAtxBWYFRxGmwkRVrV6iIbUwwkIXlUU0KbiuiMA/edit#gid=0
 * https://docs.google.com/spreadsheets/d/10LCzezihho-QLnCyM_YOXCeAeqLqmkRTNhg2JgWLMko/edit#gid=0
+
+* Google Drive - https://drive.google.com/drive/u/1/folders/1CNGNpuNWWaGpmm0udCKiueR8SWfoeVMY
